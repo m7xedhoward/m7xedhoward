@@ -1,4 +1,4 @@
-- 👋 Hi, I’m howard (M7XED/2E0PYO Ham Radio callsigns)
+- 👋 Hi, I’m Howard (M7XED/2E0PYO Ham Radio callsigns)
 - 👀 I’m interested in Maps, Postgis, Postgresql, Radio Communication , civic-tech
 - 🌱 I’m currently learning Python, Perl,  
 - 💞️ I’m looking to collaborate on ...
