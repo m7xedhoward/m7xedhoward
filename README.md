@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m7xedhoward (2E0PYO)
-- 👀 I’m interested in Maps, Postgis, Postgresql, Radio, Communication, Ham, civic-tech
+- 👀 I’m interested in Maps, Postgis, Postgresql, Radio Communication , civic-tech
 - 🌱 I’m currently learning Python, Perl,  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
